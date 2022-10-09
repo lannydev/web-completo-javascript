@@ -1,0 +1,1 @@
+console.log("Hello World"); //o ponto e vírgula é opcional.
