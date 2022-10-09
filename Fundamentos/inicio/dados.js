@@ -5,6 +5,7 @@ let valorTotal = quantidade * preco;
 console.log("Elaine");
 console.log(quantidade);
 console.log(preco);
+console.log(typeof preco)
 console.log(2 + 3);
 console.log(valorTotal);
 console.log(10);
