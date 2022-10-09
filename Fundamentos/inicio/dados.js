@@ -1,4 +1,4 @@
-let quantidade = 10;
+/*let quantidade = 10;
 var preco = 6.4;
 let valorTotal = quantidade * preco;
 
@@ -12,3 +12,13 @@ console.log(10);
 
 console.log("Elaine comprou " + quantidade + " canetas, cada uma custou " + preco + 
     ", dando um total de " + valorTotal + ".");
+
+
+    let estaChovendo = true;
+    console.log(typeof estaChovendo);*/
+
+    // typeof - informa o tipo de variável.
+
+
+    const a = 10; // o valor não irá alterar
+    
